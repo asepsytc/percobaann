@@ -1,7 +1,7 @@
 {
   "name": "percobaann",
   "main": "./lib/percobaann",
-  "version": "0.1.2",
+  "version": "0.3.0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {

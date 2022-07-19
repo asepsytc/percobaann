@@ -1,0 +1,18 @@
+{
+  "name": "percobaann@0.1.2",
+  "main": "./lib/percobaann@0.1.2",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "percobaann@0.1.2:toggle"
+  },
+  "repository": "https://github.com/atom/percobaann@0.1.2",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
