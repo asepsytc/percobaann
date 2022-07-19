@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle percobaann",
+        "command": "percobaann:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "percobaann",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "percobaann:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

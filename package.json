@@ -1,0 +1,29 @@
+{
+  "name": "percobaann",
+  "main": "./lib/percobaann",
+  "version": "0.1.2",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "percobaann:toggle"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asepsytc/percobaann.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/asepsytc/percobaann/issues"
+  },
+  "homepage": "https://github.com/asepsytc/percobaann#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "README.md"
+  },
+  "author": "testing asepsytc"
+}
